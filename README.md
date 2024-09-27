@@ -5,11 +5,26 @@ Web Development - Activity #2: Portfolio Website Using HTML only
 Welcome! This HTML portfolio highlights my journey as an Information Systems student, featuring a clear layout that includes sections for my profile, projects, skills, and experiences. It offers insights into my programming abilities and design projects, with links to my work and a contact form for inquiries. Each section is crafted to showcase my dedication to creating user-friendly solutions and engaging designs, providing a comprehensive view of my skills and achievements.
 
 ## Features
-- *Introduction*: 
-- *Home Page*: Introduction and background in programming.
-- *Projects Page*: Displays a selection of my programming projects with links to their GitHub repositories.
-- *Skills Page*: Lists my programming languages and tools organized by proficiency.
-- *Contact Page*: A simple contact form for inquiries.
+- **Introduction (Home Page)**
+This section provides a brief overview of the individual, including their background and interests in programming and design.
+
+- **Navigation Bar**
+Provides links to different sections of the page (Home, Projects, Skills, Experience, Contact) for easy navigation.
+
+- **Projects Page**
+This feature showcases the person's completed projects, detailing each one along with descriptions, programming languages used, and links to their GitHub repositories.
+
+- **Skills Page**
+This section lists the individual's technical abilities, organized by proficiency levels in various programming languages and tools.
+
+- **Additional Experience Page**
+Here, the individual highlights relevant experiences beyond programming, such as internships, collaborative projects, and other skills.
+
+- **Contact Page**
+This section contains copyright information and links to the individual’s social media and professional profiles for networking purposes.
+
+- **Footer**
+Contains copyright information and links to your GitHub, Instagram, and email for networking purposes.
 
 ## How to clone the Repository?
 There are three methods to clone this repository and run the site using VSCode Live Server, follow these steps:
