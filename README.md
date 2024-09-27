@@ -38,3 +38,4 @@ Method 3: (GitHub Desktop)
 5. To select the local directory into which you want to clone the repository, next to the "Local Path" field. click "Choose..." and navigate through the directory.
 5. At the bottom of the window. click "Clone Repository" and you're done.
 
+## Elements and Tags Utilized
