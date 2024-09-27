@@ -39,26 +39,30 @@ There are three methods to clone this repository and run the site using VSCode L
 5. At the bottom of the window. click "Clone Repository" and you're done.
 
 ## Elements and Tags Utilized
-
-- <!DOCTYPE html>: Declares the document type.
-- <html lang="en">: Root element indicating the language.
-- <head>: Contains metadata.
-- <meta>: Defines character set and viewport settings.
-- <title>: Title of the page.
-- <body>: Main content area.
-- <center>: Centers content (deprecated).
-- <h1>, <h2>: Headings for titles and sections.
-- <strong>: Emphasizes text in bold.
-- <nav>: Navigation links.
-- <ul>, <li>: Unordered list and items.
-- <hr>: Horizontal line for separation.
-- <section>: Groups related content.
-- <img>: Embeds images.
-- <p>: Paragraph text.
-- <em>: Italicizes text for emphasis.
-- <table>, <thead>, <tbody>, <tr>, <th>, <td>: Defines a table structure.
-- <ol>: Ordered list.
-- <form>: Creates a form for input.
-- <label>: Describes form fields.
-- <footer>: Contains footer content.
-- <a>: Hyperlinks to other pages or sections.
+!DOCTYPE html: Declares the document type.
+html: Root element of the document.
+head: Contains metadata.
+meta: Sets character set and viewport.
+title: Title of the webpage.
+body: Main content area.
+div: Container for grouping elements.
+h1: Main heading.
+h2: Subheading.
+nav: Navigation links.
+hr: Horizontal line.
+table: Creates a table.
+thead: Table header section.
+tbody: Table body section.
+tr: Table row.
+th: Table header cell.
+td: Table data cell.
+a: Hyperlink.
+img: Embeds an image.
+p: Paragraph of text.
+form: User input form.
+label: Describes a form field.
+input: Input field for data.
+textarea: Multi-line text input.
+footer: Footer content.
+em: Emphasizes text.
+strong: Bold text for importance.
